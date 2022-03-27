@@ -1,0 +1,14 @@
+#scroll {
+  position: fixed;
+  border: none;
+  border-radius: 100%;
+  background-position: 50% 50%;
+  background-size: cover;
+  font-size: 5em;
+  background-color: transparent;
+  width: 3em;
+  height: 20em;
+  color: white;
+  
+  transition: all 0.5s ease-in-out;
+}

@@ -1,0 +1,13 @@
+html, body {
+  background-image: linear-gradient(#d6f5f5, #48b8b8);
+}
+.positioned {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+.logo {
+  height: 5em;
+}
